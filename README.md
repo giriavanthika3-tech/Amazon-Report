@@ -1,1 +1,1 @@
-The Amazon Report project (visible in your Amazon-Report repository) typically represents a data analytics or business intelligence project focused on evaluating e-commerce operations, sales performance, and customer fulfillment metrics from one of the world's largest online marketplaces.
+The Amazon Report project typically represents a data analytics or business intelligence project focused on evaluating e-commerce operations, sales performance, and customer fulfillment metrics from one of the world's largest online marketplaces.
